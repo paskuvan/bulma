@@ -1,0 +1,27 @@
+.text-white { color: #fff; }
+
+.header {
+	background-color: #0984e3;
+	padding: 120px 0;
+}
+
+.about {
+	background-color: #ff7675;
+	padding: 120px 0;
+}
+
+.portfolio {
+	background-color: #00b894;
+	padding: 120px 0;
+}
+
+.services {
+	background-color: #fdcb6e;
+	padding: 120px 0;
+}
+
+.contact {
+	background-color: #6c5ce7;
+	padding: 120px 0;
+}
+
